@@ -14,7 +14,7 @@ body{
     font-weight: 400;
 }
 .pricipal{      
-    background-image: url(img/Background.png);
+    background-image: url(Background.png);
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
